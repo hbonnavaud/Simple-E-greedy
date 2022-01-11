@@ -1,7 +1,7 @@
 # Simple-E-greedy
 a simple tabular Q-learning using epsilon-greedy on frozen ice openAI gym environment.
 
-### Result:
+### Result:
 
 The red line represent the evolution of epsilon value over time.
 The blue line represent the average accuracy on goal-reaching task for the last 20 episodes. 
